@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BookAppFrontEnd/static/css/main.4f42753a.chunk.css",
+    "main.js": "/BookAppFrontEnd/static/js/main.4b84b5ea.chunk.js",
+    "main.js.map": "/BookAppFrontEnd/static/js/main.4b84b5ea.chunk.js.map",
+    "runtime-main.js": "/BookAppFrontEnd/static/js/runtime-main.085369c3.js",
+    "runtime-main.js.map": "/BookAppFrontEnd/static/js/runtime-main.085369c3.js.map",
+    "static/js/2.0fba04e3.chunk.js": "/BookAppFrontEnd/static/js/2.0fba04e3.chunk.js",
+    "static/js/2.0fba04e3.chunk.js.map": "/BookAppFrontEnd/static/js/2.0fba04e3.chunk.js.map",
+    "static/js/3.c1ffd358.chunk.js": "/BookAppFrontEnd/static/js/3.c1ffd358.chunk.js",
+    "static/js/3.c1ffd358.chunk.js.map": "/BookAppFrontEnd/static/js/3.c1ffd358.chunk.js.map",
+    "index.html": "/BookAppFrontEnd/index.html",
+    "static/css/main.4f42753a.chunk.css.map": "/BookAppFrontEnd/static/css/main.4f42753a.chunk.css.map",
+    "static/js/2.0fba04e3.chunk.js.LICENSE.txt": "/BookAppFrontEnd/static/js/2.0fba04e3.chunk.js.LICENSE.txt",
+    "static/media/Misery7.4f46e6f1.jpg": "/BookAppFrontEnd/static/media/Misery7.4f46e6f1.jpg",
+    "static/media/OpenBook.4657602c.jpg": "/BookAppFrontEnd/static/media/OpenBook.4657602c.jpg",
+    "static/media/orange-watercolor.7127dcd6.png": "/BookAppFrontEnd/static/media/orange-watercolor.7127dcd6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.085369c3.js",
+    "static/js/2.0fba04e3.chunk.js",
+    "static/css/main.4f42753a.chunk.css",
+    "static/js/main.4b84b5ea.chunk.js"
+  ]
+}
